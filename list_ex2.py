@@ -47,3 +47,10 @@ def rotate_list(lst, k):
     return lst[-k:] + lst[:-k]
 
 print(rotate_list([1,2,3,4,5,6,7], 2))
+
+lst3=[1,2,3,4,5]
+print(lst3[::2])
+
+#lst[start:end:step]
+lst4=[1,2,3,4,5,6,7,8,9]
+print(lst4[1::3])

@@ -1,0 +1,1 @@
+Welcome to my Python practice repository! 🚀 This collection is designed to strengthen Python skills essential for Data Engineering. It covers a variety of topics, including scripting, data manipulation, algorithms, and real-world scenarios that align with the daily challenges of a data engineer.
